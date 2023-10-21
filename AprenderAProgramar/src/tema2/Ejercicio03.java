@@ -29,7 +29,7 @@ public class Ejercicio03 {
 				sueldo *= 2;// El sueldo se multiplicará por 2
 		// Si el sueldo es mayor o igual a 500, no aplicaremos ningún cambio al sueldo
 		// Mostramos el resultado
-		System.out.println(sueldo);
+		System.out.println("El operario recibirá un sueldo de " + sueldo);
 		// Cerramos el Scanner
 		sc.close();
 	}
