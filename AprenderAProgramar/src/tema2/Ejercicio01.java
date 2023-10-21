@@ -8,6 +8,8 @@ public class Ejercicio01 {
 		int num1, num2, num3;
 		// Activamos el Scanner
 		Scanner sc = new Scanner(System.in);
+		// Presentamos el programa
+		System.out.println("¿Algún número mayor que 10?");
 		// Le pedimos al usuario el primer número
 		System.out.println("Introduzca un número");
 		// Leemos el número
