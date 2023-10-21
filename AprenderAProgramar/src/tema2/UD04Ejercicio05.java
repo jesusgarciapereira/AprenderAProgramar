@@ -25,7 +25,7 @@ public class UD04Ejercicio05 {
 		circunferencia = 2 * radio * PI;
 		area = PI * Math.pow(radio, 2);
 		/*
-		 * Importante: Es necesatio aplicar una conversión de clases en uno de los
+		 * Importante: Es necesatio aplicar una conversión de tipo en uno de los
 		 * números que se dividen para que conserven los decimales y el resultado sea
 		 * mucho más preciso.
 		 * volumen = (double) 4 / 3 * PI * Math.pow(radio, 3);
