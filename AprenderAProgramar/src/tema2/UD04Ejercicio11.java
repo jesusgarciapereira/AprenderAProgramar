@@ -28,7 +28,7 @@ public class UD04Ejercicio11 {
 		// En cualquier otro caso, mostrará que son iguales
 		else
 			System.out.println("Los dos números son iguales");
-		// Cerramos el ScannerF
+		// Cerramos el Scanner
 		sc.close();
 	}
 }

@@ -21,7 +21,7 @@ public class UD04Ejercicio12 {
 		// En cualquier otro caso, mostrará que es negativo
 		else
 			System.out.println(numero + " es NEGATIVO");
-		// Cerramos el ScannerF
+		// Cerramos el Scanner
 		sc.close();
 	}
 }

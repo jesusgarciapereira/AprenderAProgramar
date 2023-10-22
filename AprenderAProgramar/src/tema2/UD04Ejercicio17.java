@@ -55,8 +55,10 @@ public class UD04Ejercicio17 {
 		}
 		// Mostramos la primera parte del resultado
 		System.out.print("Un segundo después serán = ");
-		// La segunda parte del resultado se mostrará en función de las siguientes
-		// condiciones
+		/*
+		 * La segunda parte del resultado se mostrará en función de las siguientes
+		 * condiciones
+		 */
 		if (minuto < 10)
 			if (segundo < 10)
 				System.out.println(hora + ":0" + minuto + ":0" + segundo);
