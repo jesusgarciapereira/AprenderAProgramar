@@ -16,8 +16,10 @@ public class UD04Ejercicio07 {
 		Scanner sc = new Scanner(System.in);
 		// Para poder escribir decimales con un punto
 		sc.useLocale(Locale.US);
+		// Presentamos el programa
+		System.out.println("Calculadora de millas marinas a metros");
 		// Le pedimos al usuario que escriba el número de millas
-		System.out.println("Introduzca el número de millas marinas para convertir en metros");
+		System.out.println("Introduzca el número de millas");
 		System.out.println("(si tiene decimales, utilice el punto, como en el ejemplo: 1.1)");
 		// Leemos el número
 		millas = sc.nextDouble();
