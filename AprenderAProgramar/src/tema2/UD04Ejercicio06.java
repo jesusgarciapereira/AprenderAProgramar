@@ -11,7 +11,7 @@ public class UD04Ejercicio06 {
 		 * al usuario
 		 */
 		double precioOriginal, precioVenta;
-		// Declaramo la variable descuento que mostraremos por la consola
+		// Declaramos la variable descuento que mostraremos por la consola
 		double descuento;
 		// Activamos el Scanner
 		Scanner sc = new Scanner(System.in);

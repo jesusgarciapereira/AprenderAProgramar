@@ -18,7 +18,7 @@ public class UD04Ejercicio05 {
 		sc.useLocale(Locale.US);
 		// Le pedimos al usuario que escriba el radio de la circunferencia
 		System.out.println("Introduzca la longitud del radio de la circunferencia");
-		System.out.println("(si tiene decimales, utilice el punto como en el ejemplo: 1.1)");
+		System.out.println("(si tiene decimales, utilice el punto, como en el ejemplo: 1.1)");
 		// Leemos el número
 		radio = sc.nextDouble();
 		// Establecemos la relación entre las variables
