@@ -32,7 +32,7 @@ public class UD04Ejercicio15 {
 		// En cualquier otro caso, mostrará el tercero
 		else
 			System.out.println(num3 + " es el número mayor");
-		// Cerramos el ScannerF
+		// Cerramos el Scanner
 		sc.close();
 	}
 }

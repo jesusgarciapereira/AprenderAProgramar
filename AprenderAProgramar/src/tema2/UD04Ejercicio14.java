@@ -28,7 +28,7 @@ public class UD04Ejercicio14 {
 		// En cualquier otro caso, mostrará que son iguales
 		else
 			System.out.println("IGUALES");
-		// Cerramos el ScannerF
+		// Cerramos el Scanner
 		sc.close();
 	}
 }
