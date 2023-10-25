@@ -16,7 +16,7 @@ public class Ejercicio01 {
 			// Leemos el número
 			n = sc.nextInt();
 		} while (n < 2);// Si el número es menor que 2, repetiremos las instrucciones de dentro del do
-		// Mostramos el resultado las veces que se ejecute el bucle
+		// Mostramos un resultado todas las veces que se ejecute el bucle
 		for (int i = 2; i <= n; i += 2) {
 			System.out.println(i);
 		}
