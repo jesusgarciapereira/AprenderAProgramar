@@ -3,7 +3,7 @@ package tema3;
 public class UD05Ejercicio08 {
 
 	public static void main(String[] args) {
-		// Declaramos las variables de los valores que mostraremos
+		// Declaramos las variables de los resultados que mostraremos
 		int suma = 0;
 		int producto = 1;
 		// Presentamos el programa
