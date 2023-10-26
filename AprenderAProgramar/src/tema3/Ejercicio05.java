@@ -25,7 +25,7 @@ public class Ejercicio05 {
 		if (num == 1)
 			System.out.println("El número " + num + " no es primo porque él en sí mismo es la unidad");
 		else { // En caso contrario ejecutaremos un bucle for
-			for (int i = 2; i < Math.sqrt(num); i++) {
+			for (int i = 2; i <= Math.sqrt(num); i++) {
 				/*
 				 * Si el número es divisible por algún valor del contador, asignaremos false a
 				 * la variable primo
